@@ -1,0 +1,11 @@
+{
+  "name": "test-tinycolor-upgrade-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd cjs && npm install && node index.js && cd ../esm && npm install && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
