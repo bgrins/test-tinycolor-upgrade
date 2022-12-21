@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@bgrins/test-tinycolor-esm": "^1.4.2"
+  "devDependencies": {
+    "@bgrins/test-tinycolor-esm": "^1.4.3"
   }
 }
