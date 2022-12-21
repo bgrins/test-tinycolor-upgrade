@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bgrins/test-tinycolor-esm": "^0.0.6"
+    "@bgrins/test-tinycolor-esm": "^1.4.2"
   }
 }
