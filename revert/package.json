@@ -1,7 +1,6 @@
 {
-  "name": "test-tinycolor-upgrade-esm",
+  "name": "revert",
   "version": "1.0.0",
-  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@bgrins/test-tinycolor-esm": "^1.5.1",
-    "tinycolor2": "^1.5.0"
+  "dependencies": {
+    "tinycolor2": "^1.5.1"
   }
 }
