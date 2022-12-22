@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cd cjs && npm install && node index.js && cd ../esm && npm install && node index.js"
+    "test": "cd cjs && npm install && node index.js && cd ../esm && npm install && node index.js && cd ../beta && npm install && node index.js"
   },
   "author": "",
   "license": "ISC"
